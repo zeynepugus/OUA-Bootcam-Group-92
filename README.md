@@ -9,7 +9,7 @@ Google oyun ve uygulama akademisi bootcamp 92.grup olarak geliştirme sürecinde
 - Zeynep Uğuş: Scrum Master
 - Sefer Çınar: Product Owner- Developer
 - Samet Yasıt: Developer
-- Şevval Durmaz: Developar
+- Şevval Durmaz: Developer
 - Zülal Kahraman: Pasif 
 ## Ürün İsmi
 ### --Rutin--
